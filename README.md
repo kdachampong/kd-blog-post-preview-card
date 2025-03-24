@@ -1,1 +1,0 @@
-# kd-blog-post-preview-card
