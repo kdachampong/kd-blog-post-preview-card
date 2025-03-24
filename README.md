@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/kdachampong/kd-blog-post-preview-card](https://github.com/kdachampong/kd-blog-post-preview-card)
+- Live Site URL: [https://kdachampong.github.io/kd-blog-post-preview-card/](https://kdachampong.github.io/kd-blog-post-preview-card/)
 
 ## My process
 
